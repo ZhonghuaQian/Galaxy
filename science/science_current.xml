@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:prism="http://purl.org/rss/1.0/modules/prism/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://science.sciencemag.org">
+<title>Science current issue</title>
+<link>http://science.sciencemag.org</link>
+<description>Science RSS feed -- current issue</description>
+<prism:eIssn>1095-9203</prism:eIssn>
+<prism:coverDisplayDate>Aug 18 2017 12:00:00:000AM</prism:coverDisplayDate>
+<prism:publicationName>Science</prism:publicationName>
+<prism:issn>0036-8075</prism:issn>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/627?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/628?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/630?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/631?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/632?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/634?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/635?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/636?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/637?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/642?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/643?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/645?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/646?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/648?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/649?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/650?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/652?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/653?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/654-a?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/654-b?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/654-c?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/655?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-a?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-b?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-c?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-d?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-e?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-f?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-g?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-h?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-i?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-j?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-k?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-l?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-m?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-n?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-o?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-p?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-q?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-r?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/656-s?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/657-a?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/657-b?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/657-c?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/657-d?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/657-e?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/657-f?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/657-g?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/661?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/668?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/673?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/677?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/680?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/683?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/687?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/692?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/695?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/699?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/703?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/707?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/713?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/717?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/721-a?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/721-b?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/726?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/eaan1114?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/eaan2507?rss=1" />
+  <rdf:li rdf:resource="http://science.sciencemag.org/cgi/content/short/357/6352/eaao5843?rss=1" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://science.sciencemag.org/icons/banner/title.gif" />
+</channel>
+<image rdf:about="http://science.sciencemag.org/icons/banner/title.gif">
+<title>Science</title>
+<url>http://science.sciencemag.org/icons/banner/title.gif</url>
+<link>http://science.sciencemag.org</link>
+</image>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/627?rss=1">
+<title><![CDATA[Revisit NIH biosafety guidelines]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/627?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Oye, K. A., O'Leary, M., Riley, M. F.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aao6398</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/627</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Editorials]]></dc:subject>
+<dc:title><![CDATA[Revisit NIH biosafety guidelines]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>editorial</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>627</prism:startingPage>
+<prism:endingPage>627</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/628?rss=1">
+<title><![CDATA[News at a glance]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/628?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Gramling, C.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.628</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/628</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Scientific Community]]></dc:subject>
+<dc:title><![CDATA[News at a glance]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>In Brief</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>628</prism:startingPage>
+<prism:endingPage>629</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/630?rss=1">
+<title><![CDATA[2.7-million-year-old ice opens window on past]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/630?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Voosen, P.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.630</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/630</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Geochemistry, Geophysics]]></dc:subject>
+<dc:title><![CDATA[2.7-million-year-old ice opens window on past]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>In Depth</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>630</prism:startingPage>
+<prism:endingPage>631</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/631?rss=1">
+<title><![CDATA[Where has all the Zika gone?]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/631?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Cohen, J.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.631</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/631</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Epidemiology, Virology]]></dc:subject>
+<dc:title><![CDATA[Where has all the Zika gone?]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>In Depth</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>631</prism:startingPage>
+<prism:endingPage>632</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/632?rss=1">
+<title><![CDATA[Australia to ax support for long-term ecology sites]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/632?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Pickrell, J.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.632</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/632</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Ecology]]></dc:subject>
+<dc:title><![CDATA[Australia to ax support for long-term ecology sites]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>In Depth</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>632</prism:startingPage>
+<prism:endingPage>633</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/634?rss=1">
+<title><![CDATA[Astrophysics missions vie for NASA money]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/634?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Clery, D.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.634</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/634</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Astronomy, Physics]]></dc:subject>
+<dc:title><![CDATA[Astrophysics missions vie for NASA money]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>In Depth</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>634</prism:startingPage>
+<prism:endingPage>634</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/635?rss=1">
+<title><![CDATA[U.S.-Mexico water pact aims for a greener Colorado delta]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/635?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Cornwall, W.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.635</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/635</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Ecology, Science and Policy]]></dc:subject>
+<dc:title><![CDATA[U.S.-Mexico water pact aims for a greener Colorado delta]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>In Depth</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>635</prism:startingPage>
+<prism:endingPage>635</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/636?rss=1">
+<title><![CDATA['Safe spaces may save the European mink]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/636?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Karath, K.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.636</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/636</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Ecology, European News]]></dc:subject>
+<dc:title><![CDATA['Safe spaces may save the European mink]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>In Depth</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>636</prism:startingPage>
+<prism:endingPage>636</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/637?rss=1">
+<title><![CDATA[On the trail of yellow fever]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/637?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Kean, S.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.637</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/637</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Epidemiology, Pharmacology, Toxicology, Virology]]></dc:subject>
+<dc:title><![CDATA[On the trail of yellow fever]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>Feature</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>637</prism:startingPage>
+<prism:endingPage>641</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/642?rss=1">
+<title><![CDATA[Playing marble run to make methane]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/642?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Dobbek, H.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aao2439</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/642</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Chemistry]]></dc:subject>
+<dc:title><![CDATA[Playing marble run to make methane]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>perspective</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>642</prism:startingPage>
+<prism:endingPage>643</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/643?rss=1">
+<title><![CDATA[Circulating peptide prevents preeclampsia]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/643?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Wirka, R. C., Quertermous, T.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aao2642</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/643</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Development]]></dc:subject>
+<dc:title><![CDATA[Circulating peptide prevents preeclampsia]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>perspective</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>643</prism:startingPage>
+<prism:endingPage>644</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/645?rss=1">
+<title><![CDATA[Vortex generation reaches a new plateau]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/645?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Qiu, C.-W., Yang, Y.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan6359</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/645</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Physics]]></dc:subject>
+<dc:title><![CDATA[Vortex generation reaches a new plateau]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>perspective</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>645</prism:startingPage>
+<prism:endingPage>645</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/646?rss=1">
+<title><![CDATA[How microbes survive in the open ocean]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/646?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Zehr, J. P., Weitz, J. S., Joint, I.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan5764</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/646</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Geochemistry, Geophysics, Microbiology]]></dc:subject>
+<dc:title><![CDATA[How microbes survive in the open ocean]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>perspective</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>646</prism:startingPage>
+<prism:endingPage>647</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/648?rss=1">
+<title><![CDATA[Ductal sex determination]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/648?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Swain, A.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aao2630</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/648</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Development]]></dc:subject>
+<dc:title><![CDATA[Ductal sex determination]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>perspective</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>648</prism:startingPage>
+<prism:endingPage>648</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/649?rss=1">
+<title><![CDATA[Addressing spin states with infrared light]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/649?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Falk, A. L.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan8807</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/649</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Physics]]></dc:subject>
+<dc:title><![CDATA[Addressing spin states with infrared light]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>perspective</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>649</prism:startingPage>
+<prism:endingPage>649</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/650?rss=1">
+<title><![CDATA[What do revised U.S. rules mean for human research?]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/650?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Nichols, L., Brako, L., Rivera, S. M., Tahmassian, A., Jones, M. F., Pierce, H. H., Bierer, B. E.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan5855</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/650</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Medicine, Diseases, Science and Policy]]></dc:subject>
+<dc:title><![CDATA[What do revised U.S. rules mean for human research?]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>p-forum</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>650</prism:startingPage>
+<prism:endingPage>651</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/652?rss=1">
+<title><![CDATA[Beyond the museum's mandate]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/652?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Brinkman, P. D.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan8189</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/652</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Scientific Community]]></dc:subject>
+<dc:title><![CDATA[Beyond the museum's mandate]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>books</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>652</prism:startingPage>
+<prism:endingPage>652</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/653?rss=1">
+<title><![CDATA[A twin tale to keep you up at night]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/653?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Craig, J. M.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aao1869</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/653</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Scientific Community]]></dc:subject>
+<dc:title><![CDATA[A twin tale to keep you up at night]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>books</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>653</prism:startingPage>
+<prism:endingPage>653</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/654-a?rss=1">
+<title><![CDATA[Evaluating Science's open-data policy]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/654-a?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Roche, D. G.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan8158</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/654-a</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Evaluating Science's open-data policy]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>letters</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>654</prism:startingPage>
+<prism:endingPage>654</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/654-b?rss=1">
+<title><![CDATA[Editor's note]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/654-b?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Berg, J.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aao5141</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/654-b</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Editor's note]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>letters</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>654</prism:startingPage>
+<prism:endingPage>654</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/654-c?rss=1">
+<title><![CDATA[Helping less-prepared students excel]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/654-c?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Sessoms, A.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aao4525</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/654-c</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Helping less-prepared students excel]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>letters</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>654</prism:startingPage>
+<prism:endingPage>655</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/655?rss=1">
+<title><![CDATA[Best cost estimate of greenhouse gases]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/655?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Revesz, R., Greenstone, M., Hanemann, M., Livermore, M., Sterner, T., Grab, D., Howard, P., Schwartz, J.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aao4322</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/655</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Best cost estimate of greenhouse gases]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>letters</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>655</prism:startingPage>
+<prism:endingPage>655</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-a?rss=1">
+<title><![CDATA[When you don't want things to stick]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-a?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Lavine, M. S.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-a</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-a</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Materials Science]]></dc:subject>
+<dc:title><![CDATA[When you don't want things to stick]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>656</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-b?rss=1">
+<title><![CDATA[The circuits of itching and scratching]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-b?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Stern, P.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-b</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-b</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Neuroscience]]></dc:subject>
+<dc:title><![CDATA[The circuits of itching and scratching]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>656</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-c?rss=1">
+<title><![CDATA[Sequencing each cell of the nematode]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-c?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Zahn, L. M.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-c</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-c</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Genetics]]></dc:subject>
+<dc:title><![CDATA[Sequencing each cell of the nematode]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>656</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-d?rss=1">
+<title><![CDATA[Unusual star may be supernova debris]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-d?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Smith, K. T.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-d</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-d</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Astronomy]]></dc:subject>
+<dc:title><![CDATA[Unusual star may be supernova debris]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>656</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-e?rss=1">
+<title><![CDATA[Identification of a new injection system]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-e?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Hurtley, S. M.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-e</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-e</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Biochemistry, Microbiology]]></dc:subject>
+<dc:title><![CDATA[Identification of a new injection system]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>656</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-f?rss=1">
+<title><![CDATA[A new therapeutic target in view?]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-f?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Smith, O. M.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-f</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-f</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[A new therapeutic target in view?]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>657</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-g?rss=1">
+<title><![CDATA[Modeling a pregnancy disorder]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-g?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Kelly, P. N.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-g</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-g</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Development]]></dc:subject>
+<dc:title><![CDATA[Modeling a pregnancy disorder]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>657</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-h?rss=1">
+<title><![CDATA[Treating a tumor to metastasize]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-h?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Ferrarelli, L. K.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-h</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-h</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Treating a tumor to metastasize]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>657</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-i?rss=1">
+<title><![CDATA[Sharing data, protecting privacy]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-i?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Jasny, B. R.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-i</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-i</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Genetics, Medicine, Diseases]]></dc:subject>
+<dc:title><![CDATA[Sharing data, protecting privacy]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>i</prism:startingPage>
+<prism:endingPage>657</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-j?rss=1">
+<title><![CDATA[Collaborative governance]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-j?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Sugden, A. M.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-j</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-j</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Ecology]]></dc:subject>
+<dc:title><![CDATA[Collaborative governance]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-k?rss=1">
+<title><![CDATA[The makings of the reproductive tract]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-k?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Purnell, B. A.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-k</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-k</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Development]]></dc:subject>
+<dc:title><![CDATA[The makings of the reproductive tract]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-l?rss=1">
+<title><![CDATA[Suppressing Sjo&#x0308;gren syndrome]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-l?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Colmone, A.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-l</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-l</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Suppressing Sjo&#x0308;gren syndrome]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-m?rss=1">
+<title><![CDATA[Faulty remembrance of objects past]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-m?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Stern, P.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-m</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-m</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Neuroscience]]></dc:subject>
+<dc:title><![CDATA[Faulty remembrance of objects past]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-n?rss=1">
+<title><![CDATA[Modeling the cancer transcriptome]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-n?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Kelly, P. N.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-n</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-n</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Genetics, Medicine, Diseases]]></dc:subject>
+<dc:title><![CDATA[Modeling the cancer transcriptome]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-o?rss=1">
+<title><![CDATA[Beating bands in substellar atmospheres]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-o?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Smith, K. T.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-o</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-o</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Astronomy, Geochemistry, Geophysics, Planetary Science]]></dc:subject>
+<dc:title><![CDATA[Beating bands in substellar atmospheres]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-p?rss=1">
+<title><![CDATA[Conjugated covalent networks]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-p?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Szuromi, P.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-p</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-p</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Chemistry, Materials Science]]></dc:subject>
+<dc:title><![CDATA[Conjugated covalent networks]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-q?rss=1">
+<title><![CDATA[Methanogenic archaea metabolism]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-q?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Vinson, V.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-q</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-q</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Chemistry]]></dc:subject>
+<dc:title><![CDATA[Methanogenic archaea metabolism]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-r?rss=1">
+<title><![CDATA[A spin-valve solar cell]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-r?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Szuromi, P.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-r</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-r</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Physics, Applied, Materials Science]]></dc:subject>
+<dc:title><![CDATA[A spin-valve solar cell]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/656-s?rss=1">
+<title><![CDATA[Making the right catch]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/656-s?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Hurtley, S. M.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.656-s</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/656-s</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Biochemistry]]></dc:subject>
+<dc:title><![CDATA[Making the right catch]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twis</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>656</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/657-a?rss=1">
+<title><![CDATA[Breathing in the dark]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/657-a?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Hines, P. J.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.657-a</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/657-a</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Breathing in the dark]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twil</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>657</prism:startingPage>
+<prism:endingPage>657</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/657-b?rss=1">
+<title><![CDATA[A phenyl ring hops with a light step]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/657-b?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Yeston, J.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.657-b</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/657-b</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[A phenyl ring hops with a light step]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twil</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>657</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/657-c?rss=1">
+<title><![CDATA[Heavy elements are intergalactic travelers]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/657-c?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Smith, K. T.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.657-c</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/657-c</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Heavy elements are intergalactic travelers]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twil</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>657</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/657-d?rss=1">
+<title><![CDATA[Wired-up wash and go]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/657-d?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Lavine, M. S.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.657-d</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/657-d</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Wired-up wash and go]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twil</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>657</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/657-e?rss=1">
+<title><![CDATA[Protection by a parasitic plant]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/657-e?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Ray, L. B.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.657-e</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/657-e</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Protection by a parasitic plant]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twil</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>657</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/657-f?rss=1">
+<title><![CDATA[Bugs and drugs: A work in progress]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/657-f?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Kiberstis, P. A.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.657-f</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/657-f</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Bugs and drugs: A work in progress]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twil</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>657</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/657-g?rss=1">
+<title><![CDATA[Human spit contains ancestral surprises]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/657-g?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Zahn, L. M.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.657-g</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/657-g</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Human spit contains ancestral surprises]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>twil</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>657</prism:startingPage>
+<prism:endingPage>658</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/661?rss=1">
+<title><![CDATA[Comprehensive single-cell transcriptional profiling of a multicellular organism]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/661?rss=1</link>
+<description><![CDATA[
+<p>To resolve cellular heterogeneity, we developed a combinatorial indexing strategy to profile the transcriptomes of single cells or nuclei, termed sci-RNA-seq (single-cell combinatorial indexing RNA sequencing). We applied sci-RNA-seq to profile nearly 50,000 cells from the nematode <I>Caenorhabditis elegans</I> at the L2 larval stage, which provided &gt;50-fold "shotgun" cellular coverage of its somatic cell composition. From these data, we defined consensus expression profiles for 27 cell types and recovered rare neuronal cell types corresponding to as few as one or two cells in the L2 worm. We integrated these profiles with whole-animal chromatin immunoprecipitation sequencing data to deconvolve the cell type&ndash;specific effects of transcription factors. The data generated by sci-RNA-seq constitute a powerful resource for nematode biology and foreshadow similar atlases for other organisms.</p>
+]]></description>
+<dc:creator><![CDATA[Cao, J., Packer, J. S., Ramani, V., Cusanovich, D. A., Huynh, C., Daza, R., Qiu, X., Lee, C., Furlan, S. N., Steemers, F. J., Adey, A., Waterston, R. H., Trapnell, C., Shendure, J.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aam8940</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/661</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Genetics]]></dc:subject>
+<dc:title><![CDATA[Comprehensive single-cell transcriptional profiling of a multicellular organism]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>r-articles</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>661</prism:startingPage>
+<prism:endingPage>667</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/668?rss=1">
+<title><![CDATA[Preventing mussel adhesion using lubricant-infused materials]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/668?rss=1</link>
+<description><![CDATA[
+<p>Mussels are opportunistic macrofouling organisms that can attach to most immersed solid surfaces, leading to serious economic and ecological consequences for the maritime and aquaculture industries. We demonstrate that lubricant-infused coatings exhibit very low preferential mussel attachment and ultralow adhesive strengths under both controlled laboratory conditions and in marine field studies. Detailed investigations across multiple length scales&mdash;from the molecular-scale characterization of deposited adhesive proteins to nanoscale contact mechanics to macroscale live observations&mdash;suggest that lubricant infusion considerably reduces fouling by deceiving the mechanosensing ability of mussels, deterring secretion of adhesive threads, and decreasing the molecular work of adhesion. Our study demonstrates that lubricant infusion represents an effective strategy to mitigate marine biofouling and provides insights into the physical mechanisms underlying adhesion prevention.</p>
+]]></description>
+<dc:creator><![CDATA[Amini, S., Kolle, S., Petrone, L., Ahanotu, O., Sunny, S., Sutanto, C. N., Hoon, S., Cohen, L., Weaver, J. C., Aizenberg, J., Vogel, N., Miserez, A.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aai8977</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/668</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Materials Science]]></dc:subject>
+<dc:title><![CDATA[Preventing mussel adhesion using lubricant-infused materials]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>r-articles</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>668</prism:startingPage>
+<prism:endingPage>673</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/673?rss=1">
+<title><![CDATA[Two-dimensional sp2 carbon-conjugated covalent organic frameworks]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/673?rss=1</link>
+<description><![CDATA[
+<p>We synthesized a two-dimensional (2D) crystalline covalent organic framework (sp<sup>2</sup>c-COF) that was designed to be fully -conjugated and constructed from all sp<sup>2</sup> carbons by C=C condensation reactions of tetrakis(4-formylphenyl)pyrene and 1,4-phenylenediacetonitrile. The C=C linkages topologically connect pyrene knots at regular intervals into a 2D lattice with  conjugations extended along both <I>x</I> and <I>y</I> directions and develop an eclipsed layer framework rather than the more conventionally obtained disordered structures. The sp<sup>2</sup>c-COF is a semiconductor with a discrete band gap of 1.9 electron volts and can be chemically oxidized to enhance conductivity by 12 orders of magnitude. The generated radicals are confined on the pyrene knots, enabling the formation of a paramagnetic carbon structure with high spin density. The sp<sup>2</sup> carbon framework induces ferromagnetic phase transition to develop spin-spin coherence and align spins unidirectionally across the material.</p>
+]]></description>
+<dc:creator><![CDATA[Jin, E., Asada, M., Xu, Q., Dalapati, S., Addicoat, M. A., Brady, M. A., Xu, H., Nakamura, T., Heine, T., Chen, Q., Jiang, D.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan0202</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/673</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Chemistry, Materials Science]]></dc:subject>
+<dc:title><![CDATA[Two-dimensional sp2 carbon-conjugated covalent organic frameworks]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>673</prism:startingPage>
+<prism:endingPage>676</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/677?rss=1">
+<title><![CDATA[A molecular spin-photovoltaic device]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/677?rss=1</link>
+<description><![CDATA[
+<p>We fabricated a C<SUB>60</SUB> fullerene&ndash;based molecular spin-photovoltaic device that integrates a photovoltaic response with the spin transport across the molecular layer. The photovoltaic response can be modified under the application of a small magnetic field, with a magnetophotovoltage of up to 5% at room temperature. Device functionalities include a magnetic current inverter and the presence of diverging magnetocurrent at certain illumination levels that could be useful for sensing. Completely spin-polarized currents can be created by balancing the external partially spin-polarized injection with the photogenerated carriers.</p>
+]]></description>
+<dc:creator><![CDATA[Sun, X., Velez, S., Atxabal, A., Bedoya-Pinto, A., Parui, S., Zhu, X., Llopis, R., Casanova, F., Hueso, L. E.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan5348</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/677</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Physics, Applied, Materials Science]]></dc:subject>
+<dc:title><![CDATA[A molecular spin-photovoltaic device]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>677</prism:startingPage>
+<prism:endingPage>680</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/680?rss=1">
+<title><![CDATA[An unusual white dwarf star may be a surviving remnant of a subluminous Type Ia supernova]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/680?rss=1</link>
+<description><![CDATA[
+<p>Subluminous Type Ia supernovae, such as the Type Iax&ndash;class prototype SN 2002cx, are described by a variety of models such as the failed detonation and partial deflagration of an accreting carbon-oxygen white dwarf star or the explosion of an accreting, hybrid carbon-oxygen-neon core. These models predict that bound remnants survive such events with, according to some simulations, a high kick velocity. We report the discovery of a high proper motion, low-mass white dwarf (LP 40-365) that travels at a velocity greater than the Galactic escape velocity and whose peculiar atmosphere is dominated by intermediate-mass elements. Strong evidence indicates that this partially burnt remnant was ejected following a subluminous Type Ia supernova event. This supports the viability of single-degenerate supernova progenitors.</p>
+]]></description>
+<dc:creator><![CDATA[Vennes, S., Nemeth, P., Kawka, A., Thorstensen, J. R., Khalack, V., Ferrario, L., Alper, E. H.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aam8378</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/680</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Astronomy]]></dc:subject>
+<dc:title><![CDATA[An unusual white dwarf star may be a surviving remnant of a subluminous Type Ia supernova]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>680</prism:startingPage>
+<prism:endingPage>683</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/683?rss=1">
+<title><![CDATA[Zones, spots, and planetary-scale waves beating in brown dwarf atmospheres]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/683?rss=1</link>
+<description><![CDATA[
+<p>Brown dwarfs are massive analogs of extrasolar giant planets and may host types of atmospheric circulation not seen in the solar system. We analyzed a long-term Spitzer Space Telescope infrared monitoring campaign of brown dwarfs to constrain cloud cover variations over a total of 192 rotations. The infrared brightness evolution is dominated by beat patterns caused by planetary-scale wave pairs and by a small number of bright spots. The beating waves have similar amplitudes but slightly different apparent periods because of differing velocities or directions. The power spectrum of intermediate-temperature brown dwarfs resembles that of Neptune, indicating the presence of zonal temperature and wind speed variations. Our findings explain three previously puzzling behaviors seen in brown dwarf brightness variations.</p>
+]]></description>
+<dc:creator><![CDATA[Apai, D., Karalidi, T., Marley, M. S., Yang, H., Flateau, D., Metchev, S., Cowan, N. B., Buenzli, E., Burgasser, A. J., Radigan, J., Artigau, E., Lowrance, P.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aam9848</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/683</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Astronomy, Geochemistry, Geophysics, Planetary Science]]></dc:subject>
+<dc:title><![CDATA[Zones, spots, and planetary-scale waves beating in brown dwarf atmospheres]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>683</prism:startingPage>
+<prism:endingPage>687</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/687?rss=1">
+<title><![CDATA[Conversion of object identity to object-general semantic value in the primate temporal cortex]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/687?rss=1</link>
+<description><![CDATA[
+<p>At the final stage of the ventral visual stream, perirhinal neurons encode the identity of memorized objects through learning. However, it remains elusive whether and how object percepts alone, or concomitantly a nonphysical attribute of the objects ("learned"), are decoded from perirhinal activities. By combining monkey psychophysics with optogenetic and electrical stimulations, we found a focal spot of memory neurons where both stimulations led monkeys to preferentially judge presented objects as "already seen." In an adjacent fringe area, where neurons did not exhibit selective responses to the learned objects, electrical stimulation induced the opposite behavioral bias toward "never seen before," whereas optogenetic stimulation still induced bias toward "already seen." These results suggest that mnemonic judgment of objects emerges via the decoding of their nonphysical attributes encoded by perirhinal neurons.</p>
+]]></description>
+<dc:creator><![CDATA[Tamura, K., Takeda, M., Setsuie, R., Tsubota, T., Hirabayashi, T., Miyamoto, K., Miyashita, Y.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan4800</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/687</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Neuroscience]]></dc:subject>
+<dc:title><![CDATA[Conversion of object identity to object-general semantic value in the primate temporal cortex]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>687</prism:startingPage>
+<prism:endingPage>692</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/692?rss=1">
+<title><![CDATA[Deriving genomic diagnoses without revealing patient genomes]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/692?rss=1</link>
+<description><![CDATA[
+<p>Patient genomes are interpretable only in the context of other genomes; however, genome sharing enables discrimination. Thousands of monogenic diseases have yielded definitive genomic diagnoses and potential gene therapy targets. Here we show how to provide such diagnoses while preserving participant privacy through the use of secure multiparty computation. In multiple real scenarios (small patient cohorts, trio analysis, two-hospital collaboration), we used our methods to identify the causal variant and discover previously unrecognized disease genes and variants while keeping up to 99.7% of all participants&rsquo; most sensitive genomic information private.</p>
+]]></description>
+<dc:creator><![CDATA[Jagadeesh, K. A., Wu, D. J., Birgmeier, J. A., Boneh, D., Bejerano, G.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aam9710</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/692</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Genetics, Medicine, Diseases]]></dc:subject>
+<dc:title><![CDATA[Deriving genomic diagnoses without revealing patient genomes]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>692</prism:startingPage>
+<prism:endingPage>695</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/695?rss=1">
+<title><![CDATA[A central neural circuit for itch sensation]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/695?rss=1</link>
+<description><![CDATA[
+<p>Although itch sensation is an important protective mechanism for animals, chronic itch remains a challenging clinical problem. Itch processing has been studied extensively at the spinal level. However, how itch information is transmitted to the brain and what central circuits underlie the itch-induced scratching behavior remain largely unknown. We found that the spinoparabrachial pathway was activated during itch processing and that optogenetic suppression of this pathway impaired itch-induced scratching behaviors. Itch-mediating spinal neurons, which express the gastrin-releasing peptide receptor, are disynaptically connected to the parabrachial nucleus via glutamatergic spinal projection neurons. Blockade of synaptic output of glutamatergic neurons in the parabrachial nucleus suppressed pruritogen-induced scratching behavior. Thus, our studies reveal a central neural circuit that is critical for itch signal processing.</p>
+]]></description>
+<dc:creator><![CDATA[Mu, D., Deng, J., Liu, K.-F., Wu, Z.-Y., Shi, Y.-F., Guo, W.-M., Mao, Q.-Q., Liu, X.-J., Li, H., Sun, Y.-G.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aaf4918</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/695</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Neuroscience]]></dc:subject>
+<dc:title><![CDATA[A central neural circuit for itch sensation]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>695</prism:startingPage>
+<prism:endingPage>699</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/699?rss=1">
+<title><![CDATA[Methanogenic heterodisulfide reductase (HdrABC-MvhAGD) uses two noncubane [4Fe-4S] clusters for reduction]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/699?rss=1</link>
+<description><![CDATA[
+<p>In methanogenic archaea, the carbon dioxide (CO<SUB>2</SUB>) fixation and methane-forming steps are linked through the heterodisulfide reductase (HdrABC)&ndash;[NiFe]-hydrogenase (MvhAGD) complex that uses flavin-based electron bifurcation to reduce ferredoxin and the heterodisulfide of coenzymes M and B. Here, we present the structure of the native heterododecameric HdrABC-MvhAGD complex at 2.15-angstrom resolution. HdrB contains two noncubane [4Fe-4S] clusters composed of fused [3Fe-4S]-[2Fe-2S] units sharing 1 iron (Fe) and 1 sulfur (S), which were coordinated at the CCG motifs. Soaking experiments showed that the heterodisulfide is clamped between the two noncubane [4Fe-4S] clusters and homolytically cleaved, forming coenzyme M and B bound to each iron. Coenzymes are consecutively released upon one-by-one electron transfer. The HdrABC-MvhAGD atomic model serves as a structural template for numerous HdrABC homologs involved in diverse microbial metabolic pathways.</p>
+]]></description>
+<dc:creator><![CDATA[Wagner, T., Koch, J., Ermler, U., Shima, S.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan0425</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/699</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Chemistry]]></dc:subject>
+<dc:title><![CDATA[Methanogenic heterodisulfide reductase (HdrABC-MvhAGD) uses two noncubane [4Fe-4S] clusters for reduction]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>699</prism:startingPage>
+<prism:endingPage>703</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/703?rss=1">
+<title><![CDATA[Vinculin forms a directionally asymmetric catch bond with F-actin]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/703?rss=1</link>
+<description><![CDATA[
+<p>Vinculin is an actin-binding protein thought to reinforce cell-cell and cell-matrix adhesions. However, how mechanical load affects the vinculin&ndash;F-actin bond is unclear. Using a single-molecule optical trap assay, we found that vinculin forms a force-dependent catch bond with F-actin through its tail domain, but with lifetimes that depend strongly on the direction of the applied force. Force toward the pointed (&ndash;) end of the actin filament resulted in a bond that was maximally stable at 8 piconewtons, with a mean lifetime (12 seconds) 10 times as long as the mean lifetime when force was applied toward the barbed (+) end. A computational model of lamellipodial actin dynamics suggests that the directionality of the vinculin&ndash;F-actin bond could establish long-range order in the actin cytoskeleton. The directional and force-stabilized binding of vinculin to F-actin may be a mechanism by which adhesion complexes maintain front-rear asymmetry in migrating cells.</p>
+]]></description>
+<dc:creator><![CDATA[Huang, D. L., Bax, N. A., Buckley, C. D., Weis, W. I., Dunn, A. R.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan2556</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/703</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Biochemistry]]></dc:subject>
+<dc:title><![CDATA[Vinculin forms a directionally asymmetric catch bond with F-actin]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>703</prism:startingPage>
+<prism:endingPage>706</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/707?rss=1">
+<title><![CDATA[ELABELA deficiency promotes preeclampsia and cardiovascular malformations in mice]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/707?rss=1</link>
+<description><![CDATA[
+<p>Preeclampsia (PE) is a gestational hypertensive syndrome affecting between 5 and 8% of all pregnancies. Although PE is the leading cause of fetal and maternal morbidity and mortality, its molecular etiology is still unclear. Here, we show that ELABELA (ELA), an endogenous ligand of the apelin receptor (APLNR, or APJ), is a circulating hormone secreted by the placenta. <I>Elabela</I> but not <I>Apelin</I> knockout pregnant mice exhibit PE-like symptoms, including proteinuria and elevated blood pressure due to defective placental angiogenesis. In mice, infusion of exogenous ELA normalizes hypertension, proteinuria, and birth weight. ELA, which is abundant in human placentas, increases the invasiveness of trophoblast-like cells, suggesting that it enhances placental development to prevent PE. The ELA-APLNR signaling axis may offer a new paradigm for the treatment of common pregnancy-related complications, including PE.</p>
+]]></description>
+<dc:creator><![CDATA[Ho, L., van Dijk, M., Chye, S. T. J., Messerschmidt, D. M., Chng, S. C., Ong, S., Yi, L. K., Boussata, S., Goh, G. H.-Y., Afink, G. B., Lim, C. Y., Dunn, N. R., Solter, D., Knowles, B. B., Reversade, B.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aam6607</dc:identifier>
+<dc:identifier>hwp:master-id:sci;science.aam6607</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Development]]></dc:subject>
+<dc:title><![CDATA[ELABELA deficiency promotes preeclampsia and cardiovascular malformations in mice]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>707</prism:startingPage>
+<prism:endingPage>713</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/713?rss=1">
+<title><![CDATA[In situ architecture, function, and evolution of a contractile injection system]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/713?rss=1</link>
+<description><![CDATA[
+<p>Contractile injection systems mediate bacterial cell-cell interactions by a bacteriophage tail&ndash;like structure. In contrast to extracellular systems, the type 6 secretion system (T6SS) is defined by intracellular localization and attachment to the cytoplasmic membrane. Here we used cryo-focused ion beam milling, electron cryotomography, and functional assays to study a T6SS in <I>Amoebophilus asiaticus</I>. The in situ architecture revealed three modules, including a contractile sheath-tube, a baseplate, and an anchor. All modules showed conformational changes upon firing. Lateral baseplate interactions coordinated T6SSs in hexagonal arrays. The system mediated interactions with host membranes and may participate in phagosome escape. Evolutionary sequence analyses predicted that T6SSs are more widespread than previously thought. Our insights form the basis for understanding T6SS key concepts and exploring T6SS diversity.</p>
+]]></description>
+<dc:creator><![CDATA[Bo&#x0308;ck, D., Medeiros, J. M., Tsao, H.-F., Penz, T., Weiss, G. L., Aistleitner, K., Horn, M., Pilhofer, M.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan7904</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/713</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Biochemistry, Microbiology]]></dc:subject>
+<dc:title><![CDATA[In situ architecture, function, and evolution of a contractile injection system]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>713</prism:startingPage>
+<prism:endingPage>717</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/717?rss=1">
+<title><![CDATA[Elimination of the male reproductive tract in the female embryo is promoted by COUP-TFII in mice]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/717?rss=1</link>
+<description><![CDATA[
+<p>The sexual differentiation paradigm contends that the female pattern of the reproductive system is established by default because the male reproductive tracts (Wolffian ducts) in the female degenerate owing to a lack of androgen. Here, we discovered that female mouse embryos lacking <I>Coup-tfII</I> (chicken ovalbumin upstream promoter transcription factor II) in the Wolffian duct mesenchyme became intersex&mdash;possessing both female and male reproductive tracts. Retention of Wolffian ducts was not caused by ectopic androgen production or action. Instead, enhanced phosphorylated extracellular signal-regulated kinase signaling in Wolffian duct epithelium was responsible for the retention of male structures in an androgen-independent manner. We thus suggest that elimination of Wolffian ducts in female embryos is actively promoted by COUP-TFII, which suppresses a mesenchyme-epithelium cross-talk responsible for Wolffian duct maintenance.</p>
+]]></description>
+<dc:creator><![CDATA[Zhao, F., Franco, H. L., Rodriguez, K. F., Brown, P. R., Tsai, M.-J., Tsai, S. Y., Yao, H. H.- C.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aai9136</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/717</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Development]]></dc:subject>
+<dc:title><![CDATA[Elimination of the male reproductive tract in the female embryo is promoted by COUP-TFII in mice]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>reports</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>717</prism:startingPage>
+<prism:endingPage>720</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/721-a?rss=1">
+<title><![CDATA[New Products]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/721-a?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.721-a</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/721-a</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[New Products]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>products</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>721</prism:startingPage>
+<prism:endingPage>721</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/721-b?rss=1">
+<title><![CDATA[Webinar | Humanized mouse models in checkpoint inhibitor development]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/721-b?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Joyce-Shaikh, B., Keck, J.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.721-b</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/721-b</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Biochemistry, Cell Biology, Development, Medicine, Diseases, Molecular Biology]]></dc:subject>
+<dc:title><![CDATA[Webinar | Humanized mouse models in checkpoint inhibitor development]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>opms-sups</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>721</prism:startingPage>
+<prism:endingPage>721</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/726?rss=1">
+<title><![CDATA[When personal becomes professional]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/726?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[Boehnke, K. F.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.357.6352.726</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/726</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[When personal becomes professional]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>Working Life</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>726</prism:startingPage>
+<prism:endingPage>726</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/eaan1114?rss=1">
+<title><![CDATA[Collaborative environmental governance: Achieving collective action in social-ecological systems]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/eaan1114?rss=1</link>
+<description><![CDATA[
+<p>Managing ecosystems is challenging because of the high number of stakeholders, the permeability of man-made political and jurisdictional demarcations in relation to the temporal and spatial extent of biophysical processes, and a limited understanding of complex ecosystem and societal dynamics. Given these conditions, collaborative governance is commonly put forward as the preferred means of addressing environmental problems. Under this paradigm, a deeper understanding of if, when, and how collaboration is effective, and when other means of addressing environmental problems are better suited, is needed. Interdisciplinary research on collaborative networks demonstrates that which actors get involved, with whom they collaborate, and in what ways they are tied to the structures of the ecosystems have profound implications on actors&rsquo; abilities to address different types of environmental problems.</p>
+]]></description>
+<dc:creator><![CDATA[Bodin, O.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan1114</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/eaan1114</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Ecology, Online Only]]></dc:subject>
+<dc:title><![CDATA[Collaborative environmental governance: Achieving collective action in social-ecological systems]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>review</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>eaan1114</prism:startingPage>
+<prism:endingPage>eaan1114</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/eaan2507?rss=1">
+<title><![CDATA[A pathology atlas of the human cancer transcriptome]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/eaan2507?rss=1</link>
+<description><![CDATA[
+<p>Cancer is one of the leading causes of death, and there is great interest in understanding the underlying molecular mechanisms involved in the pathogenesis and progression of individual tumors. We used systems-level approaches to analyze the genome-wide transcriptome of the protein-coding genes of 17 major cancer types with respect to clinical outcome. A general pattern emerged: Shorter patient survival was associated with up-regulation of genes involved in cell growth and with down-regulation of genes involved in cellular differentiation. Using genome-scale metabolic models, we show that cancer patients have widespread metabolic heterogeneity, highlighting the need for precise and personalized medicine for cancer treatment. All data are presented in an interactive open-access database (<A HREF="http://www.proteinatlas.org/pathology">www.proteinatlas.org/pathology</A>) to allow genome-wide exploration of the impact of individual proteins on clinical outcomes.</p>
+]]></description>
+<dc:creator><![CDATA[Uhlen, M., Zhang, C., Lee, S., Sjo&#x0308;stedt, E., Fagerberg, L., Bidkhori, G., Benfeitas, R., Arif, M., Liu, Z., Edfors, F., Sanli, K., von Feilitzen, K., Oksvold, P., Lundberg, E., Hober, S., Nilsson, P., Mattsson, J., Schwenk, J. M., Brunnstro&#x0308;m, H., Glimelius, B., Sjo&#x0308;blom, T., Edqvist, P.-H., Djureinovic, D., Micke, P., Lindskog, C., Mardinoglu, A., Ponten, F.]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aan2507</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/eaan2507</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:subject><![CDATA[Genetics, Medicine, Diseases, Online Only]]></dc:subject>
+<dc:title><![CDATA[A pathology atlas of the human cancer transcriptome]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>r-articles</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>eaan2507</prism:startingPage>
+<prism:endingPage>eaan2507</prism:endingPage>
+</item>
+<item rdf:about="http://science.sciencemag.org/cgi/content/short/357/6352/eaao5843?rss=1">
+<title><![CDATA[Erratum for the Research Article "Observation of the Wigner-Huntington transition to metallic hydrogen" by R. P. Dias and I. F. Silvera]]></title>
+<link>http://science.sciencemag.org/cgi/content/short/357/6352/eaao5843?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[]]></dc:creator>
+<dc:date>2017-08-17T10:30:42-07:00</dc:date>
+<dc:identifier>info:doi/10.1126/science.aao5843</dc:identifier>
+<dc:identifier>hwp:resource-id:sci;357/6352/eaao5843</dc:identifier>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:title><![CDATA[Erratum for the Research Article "Observation of the Wigner-Huntington transition to metallic hydrogen" by R. P. Dias and I. F. Silvera]]></dc:title>
+<prism:publicationDate>2017-08-18</prism:publicationDate>
+<prism:section>Errata</prism:section>
+<prism:volume>357</prism:volume>
+<prism:number>6352</prism:number>
+<prism:startingPage>eaao5843</prism:startingPage>
+<prism:endingPage>eaao5843</prism:endingPage>
+</item>
+</rdf:RDF>
